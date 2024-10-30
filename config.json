@@ -1,0 +1,138 @@
+{
+    "ATRH_ON": {
+        "long_name": "ATRH sensor on",
+        "units": "bool"
+    },
+    "TEMP_AIR": {
+        "long_name": "Air temperature",
+        "units": "degrees_c"
+    },
+    "RH": {
+        "long_name": "Relative humidity",
+        "units": "percent"
+    },
+    "BARO_ON": {
+        "long_name": "Barometer on",
+        "units": "bool"
+    },
+    "BARO_PRES": {
+        "long_name": "Air pressure",
+        "units": "hPa"
+    },
+    "PAR_AIR": {
+        "long_name": "Photosynthetically active radiation in air",
+        "units": "micromol s-1 m-2"
+    },
+    "IR_SEA_ON": {
+        "long_name": "Wing IR pyrometer sensor on",
+        "units": "bool"
+    },
+    "TEMP_IR_SEA_UNCOMP": {
+        "long_name": "Sea IR Temperature",
+        "units": "degrees_c"
+    },
+    "AMBIENT_TEMP_IR_SEA": {
+        "long_name": "Sea IR Ambient Temperature",
+        "units": "degrees_c"
+    },
+    "RADIANCE_IR_SEA": {
+        "long_name": "Sea IR Radiance",
+        "units": "None"
+    },
+    "SBE37_ON": {
+        "long_name": "SBE37 sensor on",
+        "units": "bool"
+    },
+    "COND_SBE37": {
+        "long_name": "Seawater conductivity",
+        "units": "mS cm-1"
+    },
+    "SAL_SBE37": {
+        "long_name": "Seawater salinity",
+        "units": "1"
+    },
+    "TEMP_SBE37": {
+        "long_name": "Seawater temperature",
+        "units": "degrees_c"
+    },
+    "O2_CONC_SBE37": {
+        "long_name": "Oxygen concentration",
+        "units": "micromol L-1"
+    },
+    "O2_SAT_SBE37": {
+        "long_name": "Oxygen saturation",
+        "units": "percent"
+    },
+    "O2_CONC_UNCOMP_SBE37": {
+        "long_name": "Oxygen concentration, uncompensated",
+        "units": "micromol L-1"
+    },
+    "O2_SAT_UNCOMP_SBE37": {
+        "long_name": "Oxygen saturation, uncompensated",
+        "units": "percent"
+    },
+    "O2_STATUS_SBE37": {
+        "long_name": "Oxygen data status",
+        "units": "None"
+    },
+    "PUMP_ON_SBE37": {
+        "long_name": "Pump On",
+        "units": "bool"
+    },
+    "TEMP_DEPTH_HALFMETER": {
+        "long_name": "Seawater temperature, 0.5m",
+        "units": "degrees_c"
+    },
+    "CHLOR_WETLABS": {
+        "long_name": "Chlorophyll concentration",
+        "units": "microgram L-1"
+    },
+    "AIS_ON": {
+        "long_name": "AIS on",
+        "units": "bool"
+    },
+    "INS_HULL_MAG_X": {
+        "long_name": "INS hull mag X",
+        "units": "gauss"
+    },
+    "INS_HULL_MAG_Y": {
+        "long_name": "INS hull mag Y",
+        "units": "gauss"
+    },
+    "INS_HULL_MAG_Z": {
+        "long_name": "INS hull mag Z",
+        "units": "gauss"
+    },
+    "INS_HULL_MAG_STRENGTH": {
+        "long_name": "INS hull mag strength",
+        "units": "gauss"
+    },
+    "INS_WING_MAG_X": {
+        "long_name": "INS wing mag X",
+        "units": "gauss"
+    },
+    "INS_WING_MAG_Y": {
+        "long_name": "INS wing mag Y",
+        "units": "gauss"
+    },
+    "INS_WING_MAG_Z": {
+        "long_name": "INS wing mag Z",
+        "units": "gauss"
+    },
+    "INS_WING_MAG_STRENGTH": {
+        "long_name": "INS wing mag strength",
+        "units": "gauss"
+    },
+    "AIS_SILENT": {
+        "long_name": "AIS silent",
+        "units": "None"
+    },
+    "WAVE_SIGNIFICANT_HEIGHT": {
+        "long_name": "Significant wave height",
+        "units": "m"
+    },
+    "WAVE_DOMINANT_PERIOD": {
+        "long_name": "Dominant wave period",
+        "units": "s"
+    }
+}
